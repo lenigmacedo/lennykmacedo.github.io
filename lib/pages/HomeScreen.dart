@@ -105,7 +105,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     text: [
                       "Lennyk Macedo",
                       "Developer",
-                      "Mobile and",
+                      "Flutter Mobile and",
                       "Front-End"
                     ],
                   ),
