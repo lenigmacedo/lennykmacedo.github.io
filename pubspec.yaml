@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   animated_text_kit: ^2.0.0
   responsive_builder: ^0.1.5
+  draggable_scrollbar: ^0.0.4
 
 dev_dependencies:
   flutter_test:
